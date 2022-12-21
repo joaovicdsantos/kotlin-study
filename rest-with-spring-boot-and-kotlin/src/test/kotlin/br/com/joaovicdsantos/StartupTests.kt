@@ -1,10 +1,10 @@
-package br.com.joaovicdsantos.restwithspringbootandkotlin
+package br.com.joaovicdsantos
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class RestWithSpringBootAndKotlinApplicationTests {
+class StartupTests {
 
 	@Test
 	fun contextLoads() {
